@@ -39,12 +39,6 @@ CREA-BOT AI IoT – Healthcare monitoring system (SIH Project)
 
 Student Record System – Java + MySQL CRUD application  
 
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=Sophiya2806&show_icons=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sophiya2806" />
-
 ## 📫 Contact
 
 LinkedIn: https://linkedin.com/in/sophiya-s  
