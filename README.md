@@ -1,59 +1,52 @@
-# Hi 👋 I'm Sophiya S
+# Hi, I'm Sophiya S
 
-🎓 CSE (Cyber Security) Student  
-💻 Backend Developer | AI Enthusiast  
-🔐 Passionate about Cybersecurity & Secure Systems  
+CSE (Cyber Security) Student | Backend Developer | AI Enthusiast  
+Focused on building secure and scalable applications using modern technologies.
 
----
+## 🧠 About Me
 
-## 🚀 About Me
+- Working on backend systems and security-focused projects  
+- Interested in Cybersecurity, Cloud, and DevOps  
+- Passionate about real-world problem solving  
+- Building projects using Python, Java, and FastAPI  
 
-- 🔭 Working on backend & security projects  
-- 🌱 Learning Cloud, DevOps & Advanced Cybersecurity  
-- 💡 Interested in real-world problem solving  
-- 🧠 Focused on building secure applications  
+## 🛠 Tools & Technologies
 
----
+### Languages
+<img src="https://skillicons.dev/icons?i=python,java,javascript,sql" />
 
-## 🛠 Tech Stack
+### Backend & Web
+<img src="https://skillicons.dev/icons?i=fastapi,react,html,css" />
 
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
-![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
-![FastAPI](https://img.shields.io/badge/FastAPI-green?style=for-the-badge)
+### Databases
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 
----
+### Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=aws,docker,jenkins,git,linux" />
 
-## 📌 Featured Projects
+### Security Tools
+Burp Suite | Nmap | Wireshark | Kali Linux
 
-🔐 CyberShield AI  
-AI-powered cybersecurity platform  
-→ https://github.com/Sophiya2806/CyberShield-AI  
+## 🚀 Featured Projects
 
-🌐 Web Security Labs  
-Hands-on vulnerability testing labs  
-→ https://github.com/Sophiya2806/Web-Security-Labs  
+CyberShield AI – AI-powered cybersecurity platform  
+https://github.com/Sophiya2806/CyberShield-AI  
 
-🧠 CREA-BOT AI IoT  
-Smart healthcare monitoring system  
-→ Smart India Hackathon Project  
+Web Security Labs – Vulnerability testing practice labs  
+https://github.com/Sophiya2806/Web-Security-Labs  
 
----
+CREA-BOT AI IoT – Healthcare monitoring system (SIH Project)  
+
+Student Record System – Java + MySQL CRUD application  
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sophiya2806&show_icons=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Sophiya2806&show_icons=true" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sophiya2806)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sophiya2806" />
 
----
+## 📫 Contact
 
-## 🌐 Connect With Me
-
-- LinkedIn: https://linkedin.com/in/sophiya-s  
-- GitHub: https://github.com/Sophiya2806  
-- Email: sophiya2806@gmail.com  
-
----
-
-⭐ “Security is not a feature, it's a responsibility.”
+LinkedIn: https://linkedin.com/in/sophiya-s  
+GitHub: https://github.com/Sophiya2806  
+Email: sophiya2806@gmail.com  
