@@ -35,9 +35,11 @@ https://github.com/Sophiya2806/CyberShield-AI
 Web Security Labs – Vulnerability testing practice labs  
 https://github.com/Sophiya2806/Web-Security-Labs  
 
-CREA-BOT AI IoT – Healthcare monitoring system (SIH Project)  
+CREA-BOT AI IoT – Healthcare monitoring system (Smart India Hackathon Project) 
+https://github.com/Sophiya2806/creabot
 
-Student Record System – Java + MySQL CRUD application  
+Student Record System – Java + MySQL CRUD application
+https://github.com/Sophiya2806/Student-Record-Management-System 
 
 ## 📫 Contact
 
