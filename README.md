@@ -16,7 +16,7 @@ Focused on building secure and scalable applications using modern technologies.
 <img src="https://skillicons.dev/icons?i=python,java,sql" />
 
 ### Backend & Web
-<img src="https://skillicons.dev/icons?i=fastapi,react,html,css" />
+<img src="https://skillicons.dev/icons?i=fastapi,react,html" />
 
 ### Databases
 <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
