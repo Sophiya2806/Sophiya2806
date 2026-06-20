@@ -12,8 +12,8 @@ Focused on building secure and scalable applications using modern technologies.
 
 ## 🛠 Tools & Technologies
 
-### Languages
-<img src="https://skillicons.dev/icons?i=python,java,javascript,sql" />
+### Languages 
+<img src="https://skillicons.dev/icons?i=python,java,sql" />
 
 ### Backend & Web
 <img src="https://skillicons.dev/icons?i=fastapi,react,html,css" />
